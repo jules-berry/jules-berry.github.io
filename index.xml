@@ -2,71 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jules Berry | Jules Berry personal page</title>
-    <link>jules-berry.github.io/</link>
-      <atom:link href="jules-berry.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jules-berry.github.io/</link>
+      <atom:link href="https://jules-berry.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jules Berry</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/jules-berry.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jules-berry.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Jules Berry</title>
-      <link>jules-berry.github.io/</link>
+      <link>https://jules-berry.github.io/</link>
     </image>
     
     <item>
       <title>Elliptic and parabolic partial differential equations on networks and applications</title>
-      <link>jules-berry.github.io/dissertations/master_thesis/</link>
+      <link>https://jules-berry.github.io/dissertations/master_thesis/</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>jules-berry.github.io/dissertations/master_thesis/</guid>
+      <guid>https://jules-berry.github.io/dissertations/master_thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Réseaux de neurones, approximation et application aux équations de transport linéaires</title>
-      <link>jules-berry.github.io/dissertations/nn_pde/</link>
+      <link>https://jules-berry.github.io/dissertations/nn_pde/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>jules-berry.github.io/dissertations/nn_pde/</guid>
+      <guid>https://jules-berry.github.io/dissertations/nn_pde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction à la théorie des ondelettes</title>
-      <link>jules-berry.github.io/dissertations/ondelettes/</link>
+      <link>https://jules-berry.github.io/dissertations/ondelettes/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>jules-berry.github.io/dissertations/ondelettes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>jules-berry.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>jules-berry.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>jules-berry.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>jules-berry.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>jules-berry.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>jules-berry.github.io/admin/config.yml</guid>
+      <guid>https://jules-berry.github.io/dissertations/ondelettes/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>jules-berry.github.io/publication/journal-article/</link>
+      <link>https://jules-berry.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>jules-berry.github.io/publication/journal-article/</guid>
+      <guid>https://jules-berry.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jules-berry.github.io/publication/journal-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/publication/journal-article/</guid>
       <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -87,9 +69,9 @@
     
     <item>
       <title></title>
-      <link>jules-berry.github.io/publication/preprint/</link>
+      <link>https://jules-berry.github.io/publication/preprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>jules-berry.github.io/publication/preprint/</guid>
+      <guid>https://jules-berry.github.io/publication/preprint/</guid>
       <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

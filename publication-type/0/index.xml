@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 | Jules Berry personal page</title>
-    <link>jules-berry.github.io/publication-type/0/</link>
-      <atom:link href="jules-berry.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jules-berry.github.io/publication-type/0/</link>
+      <atom:link href="https://jules-berry.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/jules-berry.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jules-berry.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>0</title>
-      <link>jules-berry.github.io/publication-type/0/</link>
+      <link>https://jules-berry.github.io/publication-type/0/</link>
     </image>
     
     <item>
       <title>Réseaux de neurones, approximation et application aux équations de transport linéaires</title>
-      <link>jules-berry.github.io/dissertations/nn_pde/</link>
+      <link>https://jules-berry.github.io/dissertations/nn_pde/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>jules-berry.github.io/dissertations/nn_pde/</guid>
+      <guid>https://jules-berry.github.io/dissertations/nn_pde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction à la théorie des ondelettes</title>
-      <link>jules-berry.github.io/dissertations/ondelettes/</link>
+      <link>https://jules-berry.github.io/dissertations/ondelettes/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>jules-berry.github.io/dissertations/ondelettes/</guid>
+      <guid>https://jules-berry.github.io/dissertations/ondelettes/</guid>
       <description></description>
     </item>
     
