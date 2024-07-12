@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Stationary Mean Field Games on networks with sticky transition conditions</title>
+      <link>https://jules-berry.github.io/publication/bc_1/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/publication/bc_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Approximation and perturbations of stable solutions to a stationary mean field game system</title>
       <link>https://jules-berry.github.io/publication/bls_1/</link>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
@@ -308,7 +316,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-429157386&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-715839246&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -318,7 +326,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-429157386&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-715839246&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
