@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markov Processes, Netwoks | Jules Berry</title>
+    <link>https://jules-berry.github.io/tags/markov-processes-netwoks/</link>
+      <atom:link href="https://jules-berry.github.io/tags/markov-processes-netwoks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markov Processes, Netwoks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jules-berry.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Markov Processes, Netwoks</title>
+      <link>https://jules-berry.github.io/tags/markov-processes-netwoks/</link>
+    </image>
+    
+    <item>
+      <title>Stationary Mean Field Games on networks with sticky transition conditions</title>
+      <link>https://jules-berry.github.io/publication/bc2024b/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/publication/bc2024b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
