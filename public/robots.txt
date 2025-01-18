@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://jules-berry.github.io/sitemap.xml
