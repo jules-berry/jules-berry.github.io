@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article | Jules Berry</title>
+    <link>https://jules-berry.github.io/publication_types/article/</link>
+      <atom:link href="https://jules-berry.github.io/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jules-berry.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Article</title>
+      <link>https://jules-berry.github.io/publication_types/article/</link>
+    </image>
+    
+    <item>
+      <title>Stationary Mean Field Games on networks with sticky transition conditions</title>
+      <link>https://jules-berry.github.io/publication/bc2024a/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/publication/bc2024a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation and perturbations of stable solutions to a stationary mean field game system</title>
+      <link>https://jules-berry.github.io/publication/bls2024/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/publication/bls2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sticky diffusions on star graphs : characterization and Itô formula</title>
+      <link>https://jules-berry.github.io/publication/bc2024b/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/publication/bc2024b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
