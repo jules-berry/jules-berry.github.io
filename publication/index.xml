@@ -5,12 +5,20 @@
     <link>https://jules-berry.github.io/publication/</link>
       <atom:link href="https://jules-berry.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jules-berry.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://jules-berry.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
       <link>https://jules-berry.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A nonsmooth extension of the Brezzi-Rappaz-Raviart approximation theorem via metric regularity techniques and applications to nonlinear PDEs</title>
+      <link>https://jules-berry.github.io/publication/bls2025/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/publication/bls2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stationary Mean Field Games on networks with sticky transition conditions</title>

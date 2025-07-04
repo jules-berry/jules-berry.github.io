@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jules Berry</title>
-    <link>https://jules-berry.github.io/</link>
-      <atom:link href="https://jules-berry.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jules Berry</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <title>Talks | Jules Berry</title>
+    <link>https://jules-berry.github.io/talks/</link>
+      <atom:link href="https://jules-berry.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jules-berry.github.io/media/icon_hu7729264130191091259.png</url>
-      <title>Jules Berry</title>
-      <link>https://jules-berry.github.io/</link>
+      <title>Talks</title>
+      <link>https://jules-berry.github.io/talks/</link>
     </image>
-    
-    <item>
-      <title>A nonsmooth extension of the Brezzi-Rappaz-Raviart approximation theorem via metric regularity techniques and applications to nonlinear PDEs</title>
-      <link>https://jules-berry.github.io/publication/bls2025/</link>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://jules-berry.github.io/publication/bls2025/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Approximation of stable solutions to second order mean field game systems</title>
@@ -29,34 +21,10 @@
     </item>
     
     <item>
-      <title>Stationary Mean Field Games on networks with sticky transition conditions</title>
-      <link>https://jules-berry.github.io/publication/bc2024a/</link>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://jules-berry.github.io/publication/bc2024a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Approximation and perturbations of stable solutions to a stationary mean field game system</title>
-      <link>https://jules-berry.github.io/publication/bls2024/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://jules-berry.github.io/publication/bls2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sticky diffusion processes on networks and corresponding Mean Field Games</title>
       <link>https://jules-berry.github.io/talks/limoges_12_24/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://jules-berry.github.io/talks/limoges_12_24/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sticky diffusions on star graphs : characterization and Itô formula</title>
-      <link>https://jules-berry.github.io/publication/bc2024b/</link>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://jules-berry.github.io/publication/bc2024b/</guid>
       <description></description>
     </item>
     
