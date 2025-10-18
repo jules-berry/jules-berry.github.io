@@ -2,11 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jules-berry.github.io/publication/bls2025/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+    <loc>https://jules-berry.github.io/publication_types/article/</loc>
+    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jules-berry.github.io/publication_types/article/</loc>
+    <loc>https://jules-berry.github.io/tags/markov-processes-netwoks/</loc>
+    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/publication_types/</loc>
+    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/publication/</loc>
+    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/publication/bc2024b/</loc>
+    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/tags/</loc>
+    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/talks/heidelberg_09_25/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/talks/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/publication/bls2025/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -14,23 +42,7 @@
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jules-berry.github.io/publication_types/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jules-berry.github.io/publication/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jules-berry.github.io/tags/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://jules-berry.github.io/talks/durham_03_2025/</loc>
-    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jules-berry.github.io/talks/</loc>
     <lastmod>2025-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -52,14 +64,6 @@
   </url><url>
     <loc>https://jules-berry.github.io/talks/limoges_12_24/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jules-berry.github.io/tags/markov-processes-netwoks/</loc>
-    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jules-berry.github.io/publication/bc2024b/</loc>
-    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jules-berry.github.io/talks/rennes_10_24/</loc>

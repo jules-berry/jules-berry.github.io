@@ -5,12 +5,20 @@
     <link>https://jules-berry.github.io/publication_types/article/</link>
       <atom:link href="https://jules-berry.github.io/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jules-berry.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Article</title>
       <link>https://jules-berry.github.io/publication_types/article/</link>
     </image>
+    
+    <item>
+      <title>Sticky diffusions on star graphs : characterization and Itô formula</title>
+      <link>https://jules-berry.github.io/publication/bc2024b/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/publication/bc2024b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A nonsmooth extension of the Brezzi-Rappaz-Raviart approximation theorem via metric regularity techniques and applications to nonlinear PDEs</title>
@@ -33,14 +41,6 @@
       <link>https://jules-berry.github.io/publication/bls2024/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://jules-berry.github.io/publication/bls2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sticky diffusions on star graphs : characterization and Itô formula</title>
-      <link>https://jules-berry.github.io/publication/bc2024b/</link>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://jules-berry.github.io/publication/bc2024b/</guid>
       <description></description>
     </item>
     
