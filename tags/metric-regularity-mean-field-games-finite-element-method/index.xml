@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metric Regularity, Mean Field Games, Finite Element Method | Jules Berry</title>
-    <link>https://jules-berry.github.io/tags/metric-regularity-mean-field-games-finite-element-method/</link>
-      <atom:link href="https://jules-berry.github.io/tags/metric-regularity-mean-field-games-finite-element-method/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/metric-regularity-mean-field-games-finite-element-method/</link>
+      <atom:link href="http://localhost:1313/tags/metric-regularity-mean-field-games-finite-element-method/index.xml" rel="self" type="application/rss+xml" />
     <description>Metric Regularity, Mean Field Games, Finite Element Method</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jules-berry.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Metric Regularity, Mean Field Games, Finite Element Method</title>
-      <link>https://jules-berry.github.io/tags/metric-regularity-mean-field-games-finite-element-method/</link>
+      <link>http://localhost:1313/tags/metric-regularity-mean-field-games-finite-element-method/</link>
     </image>
     
     <item>
       <title>A nonsmooth extension of the Brezzi-Rappaz-Raviart approximation theorem via metric regularity techniques and applications to nonlinear PDEs</title>
-      <link>https://jules-berry.github.io/publication/bls2025/</link>
+      <link>http://localhost:1313/publication/bls2025/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://jules-berry.github.io/publication/bls2025/</guid>
+      <guid>http://localhost:1313/publication/bls2025/</guid>
       <description></description>
     </item>
     

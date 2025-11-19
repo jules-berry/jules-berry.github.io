@@ -3,26 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jules-berry.github.io/publication_types/article/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jules-berry.github.io/tags/markov-processes-netwoks/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jules-berry.github.io/publication_types/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jules-berry.github.io/publication/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/publication/b2025/</loc>
+    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jules-berry.github.io/publication/bc2024b/</loc>
-    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jules-berry.github.io/tags/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -38,16 +34,8 @@
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jules-berry.github.io/tags/metric-regularity-mean-field-games-finite-element-method/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://jules-berry.github.io/talks/durham_03_2025/</loc>
     <lastmod>2025-03-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jules-berry.github.io/tags/mean-field-games-netwoks/</loc>
-    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jules-berry.github.io/publication/bc2024a/</loc>
@@ -55,10 +43,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jules-berry.github.io/publication/bls2024/</loc>
-    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jules-berry.github.io/tags/mean-field-games-finite-element-method/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -88,6 +72,9 @@
   </url><url>
     <loc>https://jules-berry.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

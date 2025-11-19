@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mean Field Games; Finite Element Method, Semidiscrete Approximation, a Priori Error Estimates, Quasi-Optimal Convergence, Stable Solutions, Brezzi–Rappaz–Raviart Theorem. | Jules Berry</title>
+    <link>http://localhost:1313/tags/mean-field-games-finite-element-method-semidiscrete-approximation-a-priori-error-estimates-quasi-optimal-convergence-stable-solutions-brezzirappazraviart-theorem./</link>
+      <atom:link href="http://localhost:1313/tags/mean-field-games-finite-element-method-semidiscrete-approximation-a-priori-error-estimates-quasi-optimal-convergence-stable-solutions-brezzirappazraviart-theorem./index.xml" rel="self" type="application/rss+xml" />
+    <description>Mean Field Games; Finite Element Method, Semidiscrete Approximation, a Priori Error Estimates, Quasi-Optimal Convergence, Stable Solutions, Brezzi–Rappaz–Raviart Theorem.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Mean Field Games; Finite Element Method, Semidiscrete Approximation, a Priori Error Estimates, Quasi-Optimal Convergence, Stable Solutions, Brezzi–Rappaz–Raviart Theorem.</title>
+      <link>http://localhost:1313/tags/mean-field-games-finite-element-method-semidiscrete-approximation-a-priori-error-estimates-quasi-optimal-convergence-stable-solutions-brezzirappazraviart-theorem./</link>
+    </image>
+    
+    <item>
+      <title>Some error estimates for semidiscrete finite element approximations of stable solutions to mean field game systems</title>
+      <link>http://localhost:1313/publication/b2025/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/b2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
