@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Jules Berry</title>
+    <link>https://jules-berry.github.io/talks/</link>
+      <atom:link href="https://jules-berry.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jules-berry.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Talks</title>
+      <link>https://jules-berry.github.io/talks/</link>
+    </image>
+    
+    <item>
+      <title>Mean Field Games on networks with sticky transition conditions</title>
+      <link>https://jules-berry.github.io/talks/lyon_11_25/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/talks/lyon_11_25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation of stable solutions to second order mean field game systems</title>
+      <link>https://jules-berry.github.io/talks/heidelberg_09_25/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/talks/heidelberg_09_25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation of stable solutions to second order mean field game systems</title>
+      <link>https://jules-berry.github.io/talks/durham_03_2025/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/talks/durham_03_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sticky diffusion processes on networks and corresponding Mean Field Games</title>
+      <link>https://jules-berry.github.io/talks/limoges_12_24/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/talks/limoges_12_24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sticky diffusion processes on networks and corresponding Mean Field Games</title>
+      <link>https://jules-berry.github.io/talks/rennes_10_24/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/talks/rennes_10_24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation of non-differentiable nonlinear problems</title>
+      <link>https://jules-berry.github.io/talks/gaeta_05_24/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/talks/gaeta_05_24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation of stable solutions to a stationary mean field game system</title>
+      <link>https://jules-berry.github.io/talks/lyon_03_24/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/talks/lyon_03_24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A theorem of Brezzi, Rappaz, and Raviart from the point of view of variational analysis</title>
+      <link>https://jules-berry.github.io/talks/santiago_01_24/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/talks/santiago_01_24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation of stable solutions to a stationary MFG system</title>
+      <link>https://jules-berry.github.io/talks/valparaiso_01_24/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/talks/valparaiso_01_24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
