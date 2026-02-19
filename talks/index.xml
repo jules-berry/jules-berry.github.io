@@ -5,12 +5,20 @@
     <link>https://jules-berry.github.io/talks/</link>
       <atom:link href="https://jules-berry.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jules-berry.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Talks</title>
       <link>https://jules-berry.github.io/talks/</link>
     </image>
+    
+    <item>
+      <title>Jeux à champ moyen de diffusions adhérentes sur réseaux</title>
+      <link>https://jules-berry.github.io/talks/besacon_05_02/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/talks/besacon_05_02/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mean Field Games on networks with sticky transition conditions</title>

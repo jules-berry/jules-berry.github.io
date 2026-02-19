@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jules-berry.github.io/talks/lyon_11_25/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
+    <loc>https://jules-berry.github.io/talks/besacon_05_02/</loc>
+    <lastmod>2026-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jules-berry.github.io/talks/</loc>
+    <lastmod>2026-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/talks/lyon_11_25/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
