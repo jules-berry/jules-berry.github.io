@@ -5,12 +5,28 @@
     <link>https://jules-berry.github.io/talks/</link>
       <atom:link href="https://jules-berry.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jules-berry.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Talks</title>
       <link>https://jules-berry.github.io/talks/</link>
     </image>
+    
+    <item>
+      <title>Approximation of stable solutions to second order mean field games</title>
+      <link>https://jules-berry.github.io/talks/nice_03_26/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/talks/nice_03_26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A nonsmooth extension of the Brezzi-Rappaz-Raviart approximation theorem</title>
+      <link>https://jules-berry.github.io/talks/cjcma_2026/</link>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/talks/cjcma_2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jeux à champ moyen de diffusions adhérentes sur réseaux</title>
