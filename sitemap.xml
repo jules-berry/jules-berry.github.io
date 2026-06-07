@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jules-berry.github.io/talks/nice_03_26/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
+    <loc>https://jules-berry.github.io/talks/canum_2026/</loc>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jules-berry.github.io/talks/</loc>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/talks/nice_03_26/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
