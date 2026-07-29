@@ -41,10 +41,10 @@
   
     
   
-  <meta name="description" content="Première rencontre nationale du RT Optimisation, Lyon" />
+  <meta name="description" content="We propose a discrete Markov-chain approximation of diffusion processes on networks with both Kirchhoff and sticky vertex conditions. Stickiness is modeled by a probabilistic residence mechanism at the vertex, while the motion along the edges follows an Euler-Maruyama-type update at the diffusive scale. We prove that the associated time-interpolated chain converges in distribution to the limiting diffusion in the Skorokhod space using the Ethier-Kurtz framework. Based on this construction, we derive a fully discrete semi-Lagrangian scheme for Hamilton-Jacobi-Bellman equations on networks and establish its convergence using viscosity solution techniques." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://jules-berry.github.io/talks/lyon_11_25/" />
+  <link rel="alternate" hreflang="en-us" href="https://jules-berry.github.io/publication/bbc2026/" />
 
   
   
@@ -161,7 +161,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu3247630877640252165.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu4166356570829923896.png" />
 
-  <link rel="canonical" href="https://jules-berry.github.io/talks/lyon_11_25/" />
+  <link rel="canonical" href="https://jules-berry.github.io/publication/bbc2026/" />
 
   
   
@@ -184,28 +184,69 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Jules Berry" />
-  <meta property="og:url" content="https://jules-berry.github.io/talks/lyon_11_25/" />
-  <meta property="og:title" content="Mean Field Games on networks with sticky transition conditions | Jules Berry" />
-  <meta property="og:description" content="Première rencontre nationale du RT Optimisation, Lyon" /><meta property="og:image" content="https://jules-berry.github.io/media/icon_hu7729264130191091259.png" />
+  <meta property="og:url" content="https://jules-berry.github.io/publication/bbc2026/" />
+  <meta property="og:title" content="Markov Chain Approximation of Sticky Diffusions and Hamilton-Jacobi-Bellman Equations on Networks | Jules Berry" />
+  <meta property="og:description" content="We propose a discrete Markov-chain approximation of diffusion processes on networks with both Kirchhoff and sticky vertex conditions. Stickiness is modeled by a probabilistic residence mechanism at the vertex, while the motion along the edges follows an Euler-Maruyama-type update at the diffusive scale. We prove that the associated time-interpolated chain converges in distribution to the limiting diffusion in the Skorokhod space using the Ethier-Kurtz framework. Based on this construction, we derive a fully discrete semi-Lagrangian scheme for Hamilton-Jacobi-Bellman equations on networks and establish its convergence using viscosity solution techniques." /><meta property="og:image" content="https://jules-berry.github.io/media/icon_hu7729264130191091259.png" />
     <meta property="twitter:image" content="https://jules-berry.github.io/media/icon_hu7729264130191091259.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2025-11-27T00:00:00&#43;00:00"
+        content="2026-07-28T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2025-11-27T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2026-07-28T00:00:00&#43;00:00">
   
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://jules-berry.github.io/publication/bbc2026/"
+  },
+  "headline": "Markov Chain Approximation of Sticky Diffusions and Hamilton-Jacobi-Bellman Equations on Networks",
+  
+  "datePublished": "2026-07-28T00:00:00Z",
+  "dateModified": "2026-07-28T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Alessio Basti"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jules Berry",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://jules-berry.github.io/media/icon_hu17980401698969639728.png"
+    }
+  },
+  "description": "We propose a discrete Markov-chain approximation of diffusion processes on networks with both Kirchhoff and sticky vertex conditions. Stickiness is modeled by a probabilistic residence mechanism at the vertex, while the motion along the edges follows an Euler-Maruyama-type update at the diffusive scale. We prove that the associated time-interpolated chain converges in distribution to the limiting diffusion in the Skorokhod space using the Ethier-Kurtz framework. Based on this construction, we derive a fully discrete semi-Lagrangian scheme for Hamilton-Jacobi-Bellman equations on networks and establish its convergence using viscosity solution techniques."
+}
+</script>
+
+  
 
   
 
 
-  <title>Mean Field Games on networks with sticky transition conditions | Jules Berry</title>
+  <title>Markov Chain Approximation of Sticky Diffusions and Hamilton-Jacobi-Bellman Equations on Networks | Jules Berry</title>
 
   
   
@@ -599,6 +640,8 @@
 
 
 
+  
+
 
 <div class="mx-auto flex max-w-screen-xl">
   
@@ -615,7 +658,7 @@
     <ul class="flex flex-col gap-1 lg:hidden">
       
       
-        <li class=""><a
+        <li class="open"><a
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/publication/"
@@ -625,13 +668,14 @@
             <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
         </span>
     </a><div class="ltr:pr-0 overflow-hidden">
-        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+        <ul class="hb-sidebar-list"><li class="flex flex-col open"><a
     class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+      sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
     href="/publication/bbc2026/"
     
   >Markov Chain Approximation of Sticky Diffusions and Hamilton-Jacobi-Bellman Equations on Networks
     </a>
+  
               
             </li><li class="flex flex-col "><a
     class="hb-sidebar-custom-link
@@ -683,7 +727,7 @@
               
             </li></ul>
       </div></li>
-        <li class="open"><a
+        <li class=""><a
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/talks/"
@@ -725,14 +769,13 @@
   >Jeux à champ moyen de diffusions adhérentes sur réseaux
     </a>
               
-            </li><li class="flex flex-col open"><a
+            </li><li class="flex flex-col "><a
     class="hb-sidebar-custom-link
-      sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/talks/lyon_11_25/"
     
   >Mean Field Games on networks with sticky transition conditions
     </a>
-  
               
             </li><li class="flex flex-col "><a
     class="hb-sidebar-custom-link
@@ -852,10 +895,18 @@
 
       
 
-      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Mean Field Games on networks with sticky transition conditions</h1>
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Markov Chain Approximation of Sticky Diffusions and Hamilton-Jacobi-Bellman Equations on Networks</h1>
 
       <div class="mt-4 mb-16">
-      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Nov 27, 2025</span><span class="mx-1">·</span>
+      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Jul 28, 2026</span><span class="mx-1">·</span>
+        
+          
+          
+          <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
+            
+            <div >Alessio Basti</div>
+          </div>
+          
         
           
           
@@ -865,6 +916,14 @@
             <img src="/author/jules-berry/avatar_hu3251670644355889619.webp" alt="Jules BERRY" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
             
             <div >Jules BERRY</div>
+          </div>
+          
+        
+          
+          <span class="mr-1">,</span>
+          <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
+            
+            <div >Fabio Camilli</div>
           </div>
           
         
@@ -883,6 +942,61 @@
 
 
 
+<div class="">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="hb-attachment-link hb-attachment-large" href="https://hal.science/hal-05706139/document" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="hb-attachment-link hb-attachment-large" href="https://hal.science/hal-05706139" target="_blank" rel="noopener">
+    <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
+    HAL</a>
+
+
+</div>
+
 
         </div>
       </div>
@@ -899,31 +1013,21 @@
 
         
           <div class="font-bold text-2xl">Abstract</div>
-          <div>Poster session</div>
+          <div>We propose a discrete Markov-chain approximation of diffusion processes on networks with both Kirchhoff and sticky vertex conditions. Stickiness is modeled by a probabilistic residence mechanism at the vertex, while the motion along the edges follows an Euler-Maruyama-type update at the diffusive scale. We prove that the associated time-interpolated chain converges in distribution to the limiting diffusion in the Skorokhod space using the Ethier-Kurtz framework. Based on this construction, we derive a fully discrete semi-Lagrangian scheme for Hamilton-Jacobi-Bellman equations on networks and establish its convergence using viscosity solution techniques.</div>
         
 
         
         
 
         
-
+          <div class="font-bold text-2xl">Publication</div>
+          <div>Preprint</div>
         
 
         
-          <div class="font-bold text-2xl">Event</div>
-          <div>
-            <a href="https://indico.math.cnrs.fr/event/14650/overview" target="_blank" rel="noopener">
-            Première rencontre nationale du RT Optimisation
-            </a>
-          </div>
-        
 
         
-          <div class="font-bold text-2xl">Location</div>
-          <div>
-            <p>INSA Lyon</p>
-            
-          </div>
+
         
 
       </div>
@@ -934,9 +1038,9 @@
       </div>
 
       
-  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2025-11-27T00:00:00.000Z">
+  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2026-07-28T00:00:00.000Z">
     <span>Last updated on</span>
-    Nov 27, 2025</time>
+    Jul 28, 2026</time>
 
       <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
         

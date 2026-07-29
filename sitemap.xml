@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jules-berry.github.io/publication_types/article/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/publication/bbc2026/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/publication_types/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://jules-berry.github.io/publication/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://jules-berry.github.io/talks/canum_2026/</loc>
     <lastmod>2026-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -24,18 +40,6 @@
   </url><url>
     <loc>https://jules-berry.github.io/talks/lyon_11_25/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jules-berry.github.io/publication_types/article/</loc>
-    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jules-berry.github.io/publication_types/</loc>
-    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://jules-berry.github.io/publication/</loc>
-    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://jules-berry.github.io/publication/b2025/</loc>

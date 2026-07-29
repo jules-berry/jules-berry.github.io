@@ -5,12 +5,20 @@
     <link>https://jules-berry.github.io/publication/</link>
       <atom:link href="https://jules-berry.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jules-berry.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
       <link>https://jules-berry.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Markov Chain Approximation of Sticky Diffusions and Hamilton-Jacobi-Bellman Equations on Networks</title>
+      <link>https://jules-berry.github.io/publication/bbc2026/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/publication/bbc2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Some error estimates for semidiscrete finite element approximations of stable solutions to mean field game systems</title>
