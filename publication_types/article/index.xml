@@ -5,12 +5,20 @@
     <link>https://jules-berry.github.io/publication_types/article/</link>
       <atom:link href="https://jules-berry.github.io/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jules-berry.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Article</title>
       <link>https://jules-berry.github.io/publication_types/article/</link>
     </image>
+    
+    <item>
+      <title>Some error estimates for semidiscrete finite element approximations of stable solutions to mean field game systems</title>
+      <link>https://jules-berry.github.io/publication/b2025/</link>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://jules-berry.github.io/publication/b2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A nonsmooth extension of the Brezzi-Rappaz-Raviart approximation theorem via metric regularity techniques and applications to nonlinear PDEs</title>
@@ -25,14 +33,6 @@
       <link>https://jules-berry.github.io/publication/bbc2026/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://jules-berry.github.io/publication/bbc2026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Some error estimates for semidiscrete finite element approximations of stable solutions to mean field game systems</title>
-      <link>https://jules-berry.github.io/publication/b2025/</link>
-      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://jules-berry.github.io/publication/b2025/</guid>
       <description></description>
     </item>
     
